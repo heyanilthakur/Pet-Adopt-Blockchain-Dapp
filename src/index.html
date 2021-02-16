@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="vendor/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Pet Adotion App</title>
+  </head>
+  <body>
+    <div class="container">
+        <div style="width: 100%; text-align: center;" class="pt-4 pb-3">
+          <h1>Pet Adoption App</h1>
+          <hr style="border: 3px solid #6f42c1;" class="mb-0">
+      </div>
+
+      <div id="pets_Row" class="row">
+      </div>
+    </div>
+
+    <div id="pet_Template" style="display: none;">
+      <div class="col-sm-6 col-md-4 col-lg-3 py-3 px-2">
+        <div class="card card-pet">
+          <div class="card-header">
+            <h3 class="card-title mb-0" style="text-align: center;"></h3>
+          </div>
+          <div class="">
+            <img alt="150x150" data-src="temp.js/150x150" class="img-rounded img-center card-img-top" style="width: 100%;" src="" data-holder-rendered="true">
+                <div class="card-body">
+                    <strong>Pet Type</strong>: <span class="pet-type"></span><br/>
+                    <strong>Age</strong>: <span class="pet-age">3</span><br/>
+                    <strong>Behavior</strong>: <span class="pet-behavior"></span><br/>
+                    <strong>Color</strong>: <span class="pet-color"></span><br/><br/>
+                    <button class="btn btn-default btn btn-outline-primary btn-adopt" type="button" data-id="0" style="align-items: center;">Adopt</button>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="vendor/truffle-contract/dist/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+    <script src="vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="vendor/web3/dist/web3.js"></script>
+
+  </body>
+</html>

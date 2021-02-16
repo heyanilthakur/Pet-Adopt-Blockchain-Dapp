@@ -1,0 +1,110 @@
+[
+    {
+      "id": 0,
+      "name": "Romeo",
+      "photo": "images/corgi1.jpg",
+      "age": 0.5,
+      "animal_type":"Dog",
+      "behavior":"Loving",
+      "color":"Brown & White"
+    },
+    {
+      "id": 1,
+      "name": "Scooby",
+      "photo": "images/retriver2.jpg",
+      "age": 0.4,
+      "animal_type":"Dog",
+      "behavior":"Cuddly",
+      "color":"Golden Brown"
+    },
+    {
+      "id": 2,
+      "name": "Lily",
+      "photo": "images/squirrel3.jpg",
+      "age": 1,
+      "animal_type":"Squirrel",
+      "behavior":"Quite",
+      "color":"Grey"
+    },
+    {
+        "id": 3,
+        "name": "Hamilton",
+        "photo": "images/hamilton4.jpg",
+        "age": 1,
+        "animal_type":"Cat",
+        "behavior":"Sophisticated",
+        "color":"Black & White"
+    },
+    {
+        "id": 4,
+        "name": "Juniper",
+        "photo": "images/juniper5.jpg",
+        "age": 2,
+        "animal_type":"Fox",
+        "behavior":"Smart",
+        "color":"Orange & White"
+    },
+    {
+        "id": 5,
+        "name": "Lionel",
+        "photo": "images/lionel6.jpg",
+        "age": 0.7,
+        "animal_type":"Hedgehog",
+        "behavior":"Loves attention",
+        "color":"Black & White"
+    },
+    {
+        "id": 6,
+        "name": "Tuna",
+        "photo": "images/tuna7.jpg",
+        "age": 3,
+        "animal_type":"Dog",
+        "behavior":"Photogenic",
+        "color":"Golden"
+    },
+    {
+        "id": 7,
+        "name": "Waffles",
+        "photo": "images/waffles8.jpg",
+        "age": 2,
+        "animal_type":"Cat",
+        "behavior":"Loves to eat",
+        "color":"Orange & White"
+    },
+    {
+        "id": 8,
+        "name": "Loki",
+        "photo": "images/loki9.jpg",
+        "age": 3,
+        "animal_type":"Dog",
+        "behavior":"Mischievous",
+        "color":"Grey & White"
+    },
+    {
+        "id": 9,
+        "name": "Mr. Poof",
+        "photo": "images/mrpoof10.jpg",
+        "age": 1,
+        "animal_type":"Budgie",
+        "behavior":"Caring",
+        "color":"Green & Yellow"
+    },
+    {
+        "id": 10,
+        "name": "Ethel",
+        "photo": "images/ethel11.jpg",
+        "age": 10,
+        "animal_type":"Tortoise",
+        "behavior":"Extrovert",
+        "color":"Cream"
+    },
+    {
+        "id": 11,
+        "name": "Melvin",
+        "photo": "images/melvin12.jpg",
+        "age": 0.5,
+        "animal_type":"Rabbit",
+        "behavior":"Lazzy",
+        "color":"Grey & White"
+    }
+  ]

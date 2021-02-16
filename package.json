@@ -1,0 +1,22 @@
+{
+  "name": "pet_adoption_app",
+  "version": "1.0.0",
+  "description": "A blockchain project to understand DApp",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && sexit 1"
+  },
+  "author": "https://github.com/Bhagydeep24",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "4.1.3",
+    "lite-server": "^2.3.0",
+    "nodemon": "^1.17.3",
+    "truffle": "5.0.2",
+    "truffle-contract": "3.0.6"
+  }
+}
